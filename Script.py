@@ -14,7 +14,7 @@ class script(object):
 
 <b>DEVS:</b>
 - 𝙳𝚎𝚟 1<a href=https://t.me/TGxLegion>𝙻𝙴𝙶𝙸𝙾𝙽</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a>"""
+- 𝙳𝚎𝚟 2<a href=https://t.me/TGxSwaggster>𝚂𝚆𝙰𝙶𝙶𝚂𝚃𝙴𝚁</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
